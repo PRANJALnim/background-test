@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    cursor: none;
+}
+
+.s-section, .s-section-1, .s-page-1{
+    min-height: calc(100vh);
+    min-width: calc(100vw);
+    position: fixed;
+    z-index: -1;
+}
+
+
+
+.a{
+    min-height: 100vh;
+    color:#980000
+}
